@@ -1,0 +1,3 @@
+[submodule "diff-match-patch"]
+	path = diff-match-patch
+	url = https://github.com/zhengliuer/diff-match-patch.git
